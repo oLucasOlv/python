@@ -14,7 +14,8 @@ Curso em vídeo - <a href="https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE
 <br>
 
 # Referências
-
+<a href="https://www.notion.so/Curso-Python-2f025f390a1d4460b26e441406568352">Anotações Notion</a>
+<br>
 <a href="https://docs.python.org/pt-br/3/reference/index.html">Docs Python</a>
 <br>
 <a href="https://wiki.python.org.br/PythonDoc">Python Brasil</a>

@@ -10,6 +10,7 @@ Curso em vídeo - <a href="https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE
 - Tipos primitivos e Data Output ✔
 - Operadores aritiméticos ✔
 - Aprendendo novos módulos e ultilizandos ✔
+- Manipulando Cadeias de Texto ✔
 - ...
 <br>
 

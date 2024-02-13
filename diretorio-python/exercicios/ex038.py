@@ -11,5 +11,5 @@ if n1 > n2:
     print(f'{cores["amarelo"]}O {n1} é o número maior{cores["vazia"]}')
 elif n2 > n1:
     print(f'{cores["azul"]} O {n2} é o número maior {cores["vazia"]}')
-elif n1 == n2:
+else:
     print(f'{cores["vermelho"]}Não existe valor maior, os dois são iguais {cores["vazia"]}')

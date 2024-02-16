@@ -11,6 +11,7 @@ Curso em vídeo - <a href="https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLvE
 - Operadores aritiméticos ✔
 - Aprendendo novos módulos e ultilizandos ✔
 - Manipulando Cadeias de Texto ✔
+- Condições aninhadas ✔
 - ...
 <br>
 
